@@ -1,2 +1,2 @@
 # it-support-portfolio
-Hands-on IT support portfolio (DICT + 30-day self-study): troubleshooting, networking, systems, and automation labs.
+Hands-on IT support portfolio showcasing practical experience in troubleshooting, networking, operating systems, and basic automation through structured labs and real-world scenarios.
