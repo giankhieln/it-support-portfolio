@@ -10,12 +10,12 @@ Communication, Troubleshooting, and Documentation
 
 ## Explanation & Notes
 
-# Good Communication Practices
+### Good Communication Practices
 Use simple words and clear steps so the customer can easily understand.
 Listen carefully, confirm the issue, and speak at a steady pace. After the call, 
 briefly summarize the problem, record the details, and note the solution or next steps.
 
-# Best Practices for Documenting Troubleshooting Steps
+### Best Practices for Documenting Troubleshooting Steps
 1. Start with a Clear Problem Statement
 2. List Each Step Taken
 3. Include Relevant Details
@@ -27,7 +27,7 @@ briefly summarize the problem, record the details, and note the solution or next
 9. Stay Objective and Factual
 10. Keep Future Support in Mind
     
-# The Value of Documentation for Future Customer Interactions
+### The Value of Documentation for Future Customer Interactions
 Effective documentation creates clear records of issues, troubleshooting steps, and solutions, helping future technicians
 resolve similar problems faster, maintain consistent support, and improve customer experience over time.
 
