@@ -11,13 +11,13 @@ Effective Communication Strategies
 
 ## Explanation
 
-## "Know, Relate, Understand" Approach
+### "Know, Relate, Understand" Approach
 A simple communication technique that helps helpdesks' to communicate with customers by:
 1. Learn how the customer wants to be addressed.
 2. Make them feel comfortable and reassured. Tell them that you will do your best to resolve the issue.
 3. Match explanation to their level of understanding.
 
-## How to ask customers questions
+### How to ask customers questions
 Use both open-ended and close-ended questions:
 1. Ask relevant questions – Use open-ended questions first to understand the problem clearly.
 2. Check the scope – Use closed-ended questions to find out who or what is affected.
@@ -26,11 +26,11 @@ Use both open-ended and close-ended questions:
 5. Check for recent changes – Use open-ended questions to ask if anything changed before the issue started.
 6. Narrow down causes – Use both open and closed-ended questions to compare what works and what does not.
 
-## Active Listening
+### Active Listening
 Let the customer explain the situation while listening, Occassionally reply with "I understand" and "Yes", After they're done explaining, 
 summarize the customer's problem and verify if your understaning is correct then clarifying questions.
 
-## Keeping the Customer Call Focused
+### Keeping the Customer Call Focused
 
 - Purpose
 Control the conversation and use time efficiently while solving the issue.
