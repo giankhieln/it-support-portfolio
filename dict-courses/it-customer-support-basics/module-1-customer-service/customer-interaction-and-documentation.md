@@ -8,7 +8,7 @@ Communication, Troubleshooting, and Documentation
 - Best Practices for Documenting Troubleshooting Steps
 - The Value of Documentation for Future Customer Interactions
 
-## Explanation & Notes
+## Explanation 
 
 ### Good Communication Practices
 Use simple words and clear steps so the customer can easily understand.
